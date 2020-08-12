@@ -9,4 +9,23 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tieude">ĐÂY LÀ ỨNG DỤNG ÔN THI TRẮC NGHIỆM                     TOÁN LÝ SINH</string>
+    <string name="luudiem">Lưu Điểm Thi</string>
+    <string name="thoat">Thoát</string>
+    <string name="choilai">Chơi Lại</string>
+    <string name="caudung">Câu đúng:</string>
+    <string name="causai">Câu sai:</string>
+    <string name="cauchuatraloi">Câu chưa trả lời:</string>
+    <string name="tongdiem">Tổng điểm:</string>
+    <string name="kiemtra">Kiểm Tra</string>
+    <string name="xemdiem">Xem điểm</string>
+    <string name="app_name1">Trả Lời Trắc Nghiệm</string>
+    <string name="Home">Home</string>
+    <string name="ok">ok</string>
+    <string name="danhsachdiem">Danh Sách Điểm</string>
+    <string name="name">Họ Tên</string>
+    <string name="phonghoc">Phòng Học</string>
+    <string name="score">  Điểm</string>
+    <string name="diem">Điểm Số</string>
+    <string name="sbd">Số Báo Danh</string>
 </resources>

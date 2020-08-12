@@ -12,31 +12,31 @@
         <menu>
             <group android:checkableBehavior="single">
                 <item
-                    android:id="@+id/montoan"
-                    android:icon="@drawable/cauhoi"
-                    android:title="Môn Toán" />
+                    android:id="@+id/mongdcd"
+                    android:icon="@drawable/toanhoc"
+                    android:title="Môn GDCD" />
                 <item
                     android:id="@+id/monly"
-                    android:icon="@drawable/tracnghiem"
+                    android:icon="@drawable/vatly"
                     android:title="Môn Vật Lý" />
                 <item
                     android:id="@+id/monhoa"
-                    android:icon="@drawable/cauhoi"
+                    android:icon="@drawable/hoahoc"
                     android:title="Môn Hóa Học" />
+
                 <item
-                    android:id="@+id/monsinh"
-                    android:icon="@drawable/ic_menu_send"
-                    android:title="Môn Sinh Học" />
-                <item
-                    android:id="@+id/search"
-                    android:icon="@drawable/ic_menu_send"
-                    android:title="Tìm kiếm câu hỏi" />
-                <item
-                    android:id="@+id/score"
-                    android:icon="@drawable/ic_menu_send"
-                    android:title="Danh sách điểm" />
+                    android:id="@+id/timkiem"
+                    android:icon="@drawable/ic_search_black_24dp"
+                    android:title="Tìm kiếm" />
+
             </group>
         </menu>
     </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/thoat"
+            android:icon="@drawable/dangxuat"
+            android:title="Thoát" />
+    </group>
 
 </menu>
